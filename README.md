@@ -1,6 +1,6 @@
 ## I'm Dhanashree  and welcome to my GitHub profile!
-
-- 🔭 I’m looking for Data analyst role
+- 👨‍🎓 I'm a Certified Data Analyst
+- 🔭 I’m working as Process Associate
 - 🌱 I’m currently working on projects
 - 💬 Ask me about Excel,Power Bi, SQL and Tableau
 
