@@ -23,3 +23,4 @@ You can click the Preview link to take a look at your changes.
 
 📊 Power Bi
 
+[Linkedin](https://www.linkedin.com/in/dhanashree-dalvi-aa5222337?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9g52kiLKR6aujVvlV2R0qA%3D%3D)
