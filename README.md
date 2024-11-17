@@ -1,7 +1,7 @@
 ## I'm Dhanashree  and welcome to my GitHub profile!
 - 👨‍🎓 I'm a Certified Data Analyst
 - 🔭 I’m working as Process Associate
-- 🌱 I’m currently working on projects
+- 🌱 I’m currently sharing a lil bit knowledge to the world through my projects
 - 💬 Ask me about Excel,Power Bi, SQL and Tableau
 
 <!---
@@ -22,3 +22,4 @@ You can click the Preview link to take a look at your changes.
 🎯 R programming
 
 📊 Power Bi
+
